@@ -1,0 +1,16 @@
+body {
+    background: url(../img/bg-desktop.svg) no-repeat;
+    background-size: cover;
+    font-size: 62.5%;
+}
+
+header {
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+main{
+    font-family: 'Open Sans', sans-serif;
+
+}
